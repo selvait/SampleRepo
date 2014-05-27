@@ -8,7 +8,12 @@ package de.vogella.git.first;
  *
  */
 public class Account {
+	
+	Account(int value){
+		i = value;
+	}
 	private int i=10;
+	
 
 	public int getI() {
 		return i;
