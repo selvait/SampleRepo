@@ -10,6 +10,6 @@ package de.vogella.git.first;
 public class GitTest {
 
 	public static void main(String arg[]){
-		System.out.println("Git is fun");
+		System.out.println("Git is Cool");
 	}
 }
